@@ -1,0 +1,4 @@
+this folder will contain all the static information about pages 
+
+only add static pages that will be built here 
+

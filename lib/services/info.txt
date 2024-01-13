@@ -1,0 +1,3 @@
+this folder contains the various services
+eg: the firebase auth system, hive local database and some simple classes to track data 
+
